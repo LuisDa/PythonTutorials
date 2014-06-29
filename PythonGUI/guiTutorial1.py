@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: iso-8859-1 -*-
-# See this tutorial
+# See this tutorial: http://sebsauvage.net/python/gui/
 
 import Tkinter
 
